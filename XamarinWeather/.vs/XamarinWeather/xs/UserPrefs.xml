@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{AFB27A29-98A3-4A53-8784-39C030D81888}|Default">
+  <MonoDevelop.Ide.ItemProperties.XamarinWeather.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.Galaxy_Nexus_API_28" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamarinWeather" expanded="True">
+            <Node name="XamarinWeather" expanded="True">
+              <Node name="models" expanded="True" />
+              <Node name="network" expanded="True" />
+              <Node name="scene" expanded="True">
+                <Node name="home" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="XamarinWeather.Android" expanded="True" selected="True">
+              <Node name="Resources" expanded="True">
+                <Node name="values" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="XamarinWeather.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.XamarinWeather.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.51457D61-BDE1-4D3E-ABD9-1EE60407229D" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

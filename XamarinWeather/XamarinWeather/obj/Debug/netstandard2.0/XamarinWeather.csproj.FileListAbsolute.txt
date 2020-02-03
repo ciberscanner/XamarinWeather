@@ -1,0 +1,15 @@
+/Users/diegofernandosernasalazar/Projects/XamarinWeather/XamarinWeather/obj/Debug/netstandard2.0/XamarinWeather.Strings.resources
+/Users/diegofernandosernasalazar/Projects/XamarinWeather/XamarinWeather/obj/Debug/netstandard2.0/XamarinWeather.csproj.GenerateResource.cache
+/Users/diegofernandosernasalazar/Projects/XamarinWeather/XamarinWeather/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/diegofernandosernasalazar/Projects/XamarinWeather/XamarinWeather/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/diegofernandosernasalazar/Projects/XamarinWeather/XamarinWeather/obj/Debug/netstandard2.0/XamarinWeather.AssemblyInfoInputs.cache
+/Users/diegofernandosernasalazar/Projects/XamarinWeather/XamarinWeather/obj/Debug/netstandard2.0/XamarinWeather.AssemblyInfo.cs
+/Users/diegofernandosernasalazar/Projects/XamarinWeather/XamarinWeather/obj/Debug/netstandard2.0/XamarinWeather.dll
+/Users/diegofernandosernasalazar/Projects/XamarinWeather/XamarinWeather/obj/Debug/netstandard2.0/ref/XamarinWeather.dll
+/Users/diegofernandosernasalazar/Projects/XamarinWeather/XamarinWeather/obj/Debug/netstandard2.0/XamarinWeather.pdb
+/Users/diegofernandosernasalazar/Projects/XamarinWeather/XamarinWeather/bin/Debug/netstandard2.0/XamarinWeather.deps.json
+/Users/diegofernandosernasalazar/Projects/XamarinWeather/XamarinWeather/bin/Debug/netstandard2.0/XamarinWeather.dll
+/Users/diegofernandosernasalazar/Projects/XamarinWeather/XamarinWeather/bin/Debug/netstandard2.0/ref/XamarinWeather.dll
+/Users/diegofernandosernasalazar/Projects/XamarinWeather/XamarinWeather/bin/Debug/netstandard2.0/XamarinWeather.pdb
+/Users/diegofernandosernasalazar/Projects/XamarinWeather/XamarinWeather/obj/Debug/netstandard2.0/XamarinWeather.csprojAssemblyReference.cache
+/Users/diegofernandosernasalazar/Projects/XamarinWeather/XamarinWeather/obj/Debug/netstandard2.0/XamlC.stamp
